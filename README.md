@@ -1,2 +1,2 @@
-# MiKi495.gthub.io
+# MiKi495.github.io
 жизнь
